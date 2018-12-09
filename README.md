@@ -1,6 +1,7 @@
 # wunderground-client
 
 [![Build Status](https://travis-ci.org/mhagrelius/wunderground-client.svg?branch=master)](https://travis-ci.org/mhagrelius/wunderground-client)
+[![codecov](https://codecov.io/gh/mhagrelius/wunderground-client/branch/master/graph/badge.svg)](https://codecov.io/gh/mhagrelius/wunderground-client)
 
 A weather underground (wunderground) client library written with typescript. This project was born out of some basic needs to periodically fetch key weather data for a given zip code.
 
